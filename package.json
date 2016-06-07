@@ -1,0 +1,37 @@
+{
+  "name": "grunt-scaff",
+  "version": "0.1.0",
+  "description": "Scaffolding files quickly with templates. For exemple create a new ReactComponent quickly with style and script files pre-configured.",
+  "scripts": {
+    "test": "grunt test --stack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouloux/grunt-scaff.git"
+  },
+  "keywords": [
+    "grunt",
+    "plugin",
+    "solid",
+    "scaffold",
+    "scaffolding"
+  ],
+  "author": "Alexis Bouhet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zouloux/grunt-scaff/issues"
+  },
+  "homepage": "https://github.com/zouloux/grunt-scaff#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-nodeunit": "^0.4.1"
+  },
+  "dependencies" : {
+    "inquirer": "latest",
+    "wrench": "latest"
+  },
+  "files" : [
+    "tasks"
+  ]
+}
