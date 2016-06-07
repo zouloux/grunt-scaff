@@ -1,6 +1,6 @@
 {
   "name": "grunt-scaff",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Scaffolding files quickly with templates. For exemple create a new ReactComponent quickly with style and script files pre-configured.",
   "scripts": {
     "test": "grunt test --stack"
@@ -12,6 +12,7 @@
   "keywords": [
     "grunt",
     "plugin",
+    "scaff",
     "solid",
     "scaffold",
     "scaffolding"

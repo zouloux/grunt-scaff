@@ -1,5 +1,5 @@
 /*
- * grunt-solid-scaffold
+ * grunt-scaff
  *
  * Forked from :
  * grunt-scaffold - https://github.com/crudo/grunt-scaffold
@@ -10,7 +10,7 @@
  */
 module.exports = function (grunt)
 {
-	grunt.registerMultiTask('scaffold', 'Scaffolding files quickly with templates.', function ()
+	grunt.registerMultiTask('scaff', 'Scaffolding files quickly with templates.', function ()
 	{
 		// Get dependencies
 		var inquirer = require('inquirer'),
