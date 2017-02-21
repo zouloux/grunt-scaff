@@ -142,3 +142,12 @@ export class %%capitalComponentName%% extends ReactView<Props, States>
 }
 
 ```
+
+
+### Usage
+
+To create a new component following previous configuration, you can use :
+
+- `grunt scaff:jqueryComponent` and follow instructions...
+or
+- `grunt scaff:reactComponent` and follow instructions...
